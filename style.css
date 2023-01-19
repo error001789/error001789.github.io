@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@700&display=swap');
+
+.maincont {
+
+    text-align: center;
+    font-family: Roboto Mono;
+    font-size: 50px;
+}
+.img {
+
+    width:1500px;
+    height:900px
+}
+li {
+    font-size: 25px;
+    font-family:Raleway;
+}
+#subc{
+    font-size:40px;
+    text-align: center;
+    padding-top:100px;
+    font-family: Roboto Condensed;
+}
+#sub2 {
+    font-size:35px;
+    font-family: Dosis;
+}
+#lastpara{
+    font-size:27px;
+    font-family:Dosis;
+    text-align: center;
+    padding-top:150px;
+}
+footer{
+    font-size: 20px;
+    padding-top: 200px;
+    text-align: center;
+}
+.img3 {
+    width:500px;
+    height:600px;
+    padding-left: 500px;
+    padding-top: 100px;
+}
